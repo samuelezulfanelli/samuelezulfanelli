@@ -4,7 +4,7 @@
 
 -⚛️ Theoretical physics, statistical mechanics
 
--💻 Currently writing code (and trying not to break it) for my thesis on Path Integral Monte Carlo.
+-💻 Currently writing code (and trying not to break it) in preparation of my thesis on Path Integral Monte Carlo.
 
 -🌱 Physics student transitioning into coding. Learning Python and Julia, one syntax error at a time!
 <!--
