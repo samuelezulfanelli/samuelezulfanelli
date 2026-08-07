@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there!
+🎓 MSc Physics of Complex Systems @ University of Florence
+⚛️ Theoretical physics, statistical mechanics
+💻 Currently writing code (and trying not to break it) for my thesis on Path Integral Monte Carlo.
+🌱 Physics student transitioning into coding. Learning Python and Julia, one syntax error at a time!
 <!--
 **samuelezulfanelli/samuelezulfanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
